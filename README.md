@@ -1,1 +1,1 @@
-# assignment_for_module_5
+A sample command-line application providing basic argument parsing with an entrypoint in `bin/`.
